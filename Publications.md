@@ -8,7 +8,7 @@ show_sidebar: false
 
 ## Peer-reviewed papers
 
-- **Weber CC**. 2014. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics (in press, [preprint](https://doi.org/10.1101/2024.05.30.596622) )
+- **Weber CC**. 2014. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics ([link](https://doi.org/10.1093/g3journal/jkae187))
 
 - **Weber CC**, Perron U, Casey D, Yang Z, Goldman N. 2021. Ambiguity coding allows accurate inference of evolutionary parameters from alignments in an aggregated state-space. Systematic Biology  ([link](https://academic.oup.com/sysbio/article/70/1/21/5827469))
 
