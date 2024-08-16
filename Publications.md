@@ -10,11 +10,11 @@ show_sidebar: false
 
 - **Weber CC**. 2014. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics (in press, [preprint](https://doi.org/10.1101/2024.05.30.596622) )
 
-- **Weber CC**, Perron U, Casey D, Yang Z, Goldman N. 2021. Ambiguity coding allows accurate inference of evolutionary parameters from alignments in an aggregated state-space. Systematic Biology  ([link](https://academic.oup.com/sysbio/article/70/1/21/5827469) | previously available as preprint)
+- **Weber CC**, Perron U, Casey D, Yang Z, Goldman N. 2021. Ambiguity coding allows accurate inference of evolutionary parameters from alignments in an aggregated state-space. Systematic Biology  ([link](https://academic.oup.com/sysbio/article/70/1/21/5827469))
 
-- **Weber CC**, Whelan S. 2019. Physicochemical amino acid properties better describe substitution rates in large populations. Molecular Biology and Evolution ([link](https://doi.org/10.1093/molbev/msz003) | previously available as preprint).
+- **Weber CC**, Whelan S. 2019. Physicochemical amino acid properties better describe substitution rates in large populations. Molecular Biology and Evolution ([link](https://doi.org/10.1093/molbev/msz003) ).
 
-- Platt A*, **Weber CC***, Liberles DA. 2018. Protein Evolution Depends On Multiple Distinct Population Size Parameters. BMC Evolutionary Biology 18 (17) ([link](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-1085-x) | previously available as preprint) *Authors contributed equally. Names in alphabetical order.
+- Platt A*, **Weber CC***, Liberles DA. 2018. Protein Evolution Depends On Multiple Distinct Population Size Parameters. BMC Evolutionary Biology 18 (17) ([link](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-1085-x) ) *Authors contributed equally. Names in alphabetical order.
 
 - Chi PB, Kim D, Lai JK, Bykova N, **Weber CC**, Kubelka J, Liberles DA. 2018. A new parameter‐rich structure‐aware mechanistic model for amino acid substitution during evolution. Proteins 86:2 ([link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25429))
 
@@ -43,6 +43,13 @@ show_sidebar: false
 
 # Data notes:
 - Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabholz B, Howard JT, Suh A, **Weber CC**, et al. Phylogenomic Analyses Data of the Avian Phylogenomics Project. GigaScience ([link](https://doi.org/10.1186/s13742-014-0038-1))
+
+# Selected genome notes:
+Some genomes I looked at prior to their release (I am listed as a group author)
+
+- Lohse et al. 2022. The genome sequence of the Adonis blue, Lysandra bellargus (Rottemburg, 1775). Wellcome Open Research. ([link](https://wellcomeopenresearch.org/articles/7-255))
+- Ebdon et al. 2021. The Genome Sequence of the Clouded Yellow, Colias crocea (Geoffroy, 1785). Wellcome Open Research.
+- Lohse et al. 2021. The Genome Sequence of the Large White, Pieris Brassicae (Linnaeus, 1758). Wellcome Open Research
 
 # PhD Thesis:
 - **Weber, CC**. 2011. Genome structure and determinants of rates of evolution. Thesis (Doctor of Philosophy (PhD)). University of Bath ([link](https://researchportal.bath.ac.uk/en/studentTheses/genome-structure-and-determinants-of-rates-of-evolution))
