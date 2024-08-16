@@ -1,3 +1,9 @@
+---
+title: Publications
+layout: page
+show_sidebar: false
+---
+
 ## Publications
 
 # Peer-reviewed papers
