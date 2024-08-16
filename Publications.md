@@ -14,7 +14,7 @@ show_sidebar: false
 
 - **Weber CC**, Whelan S. 2019. Physicochemical amino acid properties better describe substitution rates in large populations. Molecular Biology and Evolution ([link](https://doi.org/10.1093/molbev/msz003) ).
 
-- Platt A*, **Weber CC***, Liberles DA. 2018. Protein Evolution Depends On Multiple Distinct Population Size Parameters. BMC Evolutionary Biology 18 (17) ([link](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-1085-x) ) *Authors contributed equally. Names in alphabetical order.
+- Platt A*, **Weber CC** *, Liberles DA. 2018. Protein Evolution Depends On Multiple Distinct Population Size Parameters. BMC Evolutionary Biology 18 (17) ([link](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-1085-x) ) *Authors contributed equally. Names in alphabetical order.
 
 - Chi PB, Kim D, Lai JK, Bykova N, **Weber CC**, Kubelka J, Liberles DA. 2018. A new parameter‐rich structure‐aware mechanistic model for amino acid substitution during evolution. Proteins 86:2 ([link](https://onlinelibrary.wiley.com/doi/10.1002/prot.25429))
 
