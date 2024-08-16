@@ -1,3 +1,14 @@
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 title: Claudia C. Weber
 description: 
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+      menubar: docs_menu
+      hero_height: small
