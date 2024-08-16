@@ -1,3 +1,9 @@
+---
+title: Software
+layout: page
+show_sidebar: false
+---
+
 # Software
 
 ## Molecular evolution
