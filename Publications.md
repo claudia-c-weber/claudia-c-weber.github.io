@@ -4,9 +4,9 @@ layout: page
 show_sidebar: false
 ---
 
-## Publications
+# Publications
 
-# Peer-reviewed papers
+## Peer-reviewed papers
 
 - **Weber CC**. 2014. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics (in press, [preprint](https://doi.org/10.1101/2024.05.30.596622) )
 
@@ -41,15 +41,15 @@ show_sidebar: false
 - Warnecke T, **Weber CC**, Hurst LD. 2009. Why there is more to protein evolution than protein function: splicing, nucleosomes and dual-coding sequence. Biochemical Society transactions 37:756–61 ([link](https://doi.org/10.1042/BST0370756))
 
 
-# Data notes:
+## Data notes:
 - Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabholz B, Howard JT, Suh A, **Weber CC**, et al. Phylogenomic Analyses Data of the Avian Phylogenomics Project. GigaScience ([link](https://doi.org/10.1186/s13742-014-0038-1))
 
-# Selected genome notes:
+## Selected genome notes:
 Some genomes I looked at prior to their release (I am listed as a group author)
 
 - Lohse et al. 2022. The genome sequence of the Adonis blue, Lysandra bellargus (Rottemburg, 1775). Wellcome Open Research. ([link](https://wellcomeopenresearch.org/articles/7-255))
 - Ebdon et al. 2021. The Genome Sequence of the Clouded Yellow, Colias crocea (Geoffroy, 1785). Wellcome Open Research.
 - Lohse et al. 2021. The Genome Sequence of the Large White, Pieris Brassicae (Linnaeus, 1758). Wellcome Open Research
 
-# PhD Thesis:
+## PhD Thesis:
 - **Weber, CC**. 2011. Genome structure and determinants of rates of evolution. Thesis (Doctor of Philosophy (PhD)). University of Bath ([link](https://researchportal.bath.ac.uk/en/studentTheses/genome-structure-and-determinants-of-rates-of-evolution))
