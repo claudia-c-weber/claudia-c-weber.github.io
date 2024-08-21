@@ -41,7 +41,7 @@ Along with the VAE workflow, I provide a set of standalone k-mer counting tools 
 | [unique-kmers](https://github.com/CobiontID/unique-kmer-counts) | Count distinct k-mers in sequences | Calculate k-mer diversity |
 | [fastk-medians](https://github.com/CobiontID/fastk-medians) | Calculate median number of times each large k-mer in a sequence occurs across the set | Approximate k-mer coverage |
 
-Further details are provided under https://cobiontid.github.io/
+Further details are provided under [https://cobiontid.github.io/](https://cobiontid.github.io/)
 
 
 ## Extracting genomes from mixed samples with chromatin network embeddings
