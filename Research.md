@@ -1,5 +1,5 @@
 ---
-title: Research interests
+title: Research
 classes: wide
 header:
   overlay_color: "#333"
