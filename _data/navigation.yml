@@ -1,7 +1,7 @@
 #- name: Home
 #  link: /
 main:
-- name: Publications
+- title: Publications
   url: Publications.html
-- name: Software
+- title: Software
   url: Software.html
