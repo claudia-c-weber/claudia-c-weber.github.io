@@ -22,6 +22,6 @@ plugins:
 author:
   name             : "Claudia C. Weber"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
+  bio              : "email: first.initial.last [at] gmail.com"
   location         : "Cambridge, England"
-  email            : claudia (dot) c (dot) weber (at) gmail (dot) com
+  email            : #claudia (dot) c (dot) weber (at) gmail (dot) com
