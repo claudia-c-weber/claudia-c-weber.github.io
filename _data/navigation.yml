@@ -1,5 +1,6 @@
 #- name: Home
 #  link: /
+main:
 - name: Publications
   link: Publications.html
 - name: Software
