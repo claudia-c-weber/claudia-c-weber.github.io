@@ -2,6 +2,6 @@
 #  link: /
 main:
 - name: Publications
-  link: Publications.html
+  url: Publications.html
 - name: Software
-  link: Software.html
+  url: Software.html
