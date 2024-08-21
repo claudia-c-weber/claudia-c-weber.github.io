@@ -1,6 +1,8 @@
 ---
 title: Publications
 classes: wide
+header:
+  overlay_color: "#333"
 ---
 
 
@@ -45,9 +47,11 @@ Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabh
 # Selected genome notes:
 Some genomes I looked at prior to their release (I am listed as a group author)
 
-- Lohse et al. 2022. The genome sequence of the Adonis blue, Lysandra bellargus (Rottemburg, 1775). Wellcome Open Research. ([link](https://wellcomeopenresearch.org/articles/7-255))
-- Ebdon et al. 2021. The Genome Sequence of the Clouded Yellow, Colias crocea (Geoffroy, 1785). Wellcome Open Research.
-- Lohse et al. 2021. The Genome Sequence of the Large White, Pieris Brassicae (Linnaeus, 1758). Wellcome Open Research
+Lohse et al. 2022. The genome sequence of the Adonis blue, Lysandra bellargus (Rottemburg, 1775). Wellcome Open Research. ([link](https://wellcomeopenresearch.org/articles/7-255))
+
+Ebdon et al. 2021. The Genome Sequence of the Clouded Yellow, Colias crocea (Geoffroy, 1785). Wellcome Open Research.
+
+Lohse et al. 2021. The Genome Sequence of the Large White, Pieris Brassicae (Linnaeus, 1758). Wellcome Open Research
 
 # PhD Thesis:
 **Weber, CC**. 2011. Genome structure and determinants of rates of evolution. Thesis (Doctor of Philosophy (PhD)). University of Bath ([link](https://researchportal.bath.ac.uk/en/studentTheses/genome-structure-and-determinants-of-rates-of-evolution))
