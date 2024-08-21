@@ -10,9 +10,9 @@ header:
 
 Most codon substitution models treat all nonsynonymous changes as equivalent, regardless of the physicochemical properties of the amino acids involved. "CoRa" is a parametric codon model that allows constraints on radical or conservative amino acid substitutions to be considered separately. The model describes the evolution of protein coding sequences in organisms with large populations and effective selection significantly better than the standard model.
 
-- Instructions for running the model: https://github.com/claudia-c-weber/CoRa
-- Details can be found in: Weber CC and Whelan S (2019). _Physicochemical Amino Acid Properties Better Describe Substitution Rates in Large Populations_. Molecular Biology and Evolution. [https://doi.org/10.1093/molbev/msz003](https://doi.org/10.1093/molbev/msz003)
-
+| Repository | Description | Citation |
+| -- | -- | -- |
+| https://github.com/claudia-c-weber/CoRa | Instructions for running the model | Weber CC and Whelan S (2019). _Physicochemical Amino Acid Properties Better Describe Substitution Rates in Large Populations_. Molecular Biology and Evolution. [https://doi.org/10.1093/molbev/msz003](https://doi.org/10.1093/molbev/msz003) |
 
 
 ## Ancestral protein sequence reconstruction
@@ -27,8 +27,9 @@ Samples collected for sequencing often contain genetic material from non-target 
 The example below shows HiFi reads from a buff-tip moth sample, which was infected _Wolbachia_ strains:
 <img src="https://github.com/user-attachments/assets/ac9bf758-5680-44d9-8a94-b0a873de1791" width=350>
 
-- Code for training the VAE and visualising the embeddings: https://github.com/CobiontID/read_VAE
-- A description of the method can be found here: Weber CC (2024). _Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition_. G3 Genes, Genomes, Genetics, [https://doi.org/10.1093/g3journal/jkae187](https://doi.org/10.1093/g3journal/jkae187)
+| Repository | Description | Citation |
+| -- | -- | -- |
+| https://github.com/CobiontID/read_VAE | Code for training the VAE and visualising the embeddings | Weber CC (2024). _Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition_. G3 Genes, Genomes, Genetics, [https://doi.org/10.1093/g3journal/jkae187](https://doi.org/10.1093/g3journal/jkae187) |
 
 
 
@@ -39,7 +40,7 @@ Along with the VAE workflow, I provide a set of standalone k-mer counting tools 
 |--|--|--|
 | [kmer-counter](https://github.com/CobiontID/kmer-counter) | Fast k-mer counter for large read sets | Get tetranucleotide counts |
 | [unique-kmers](https://github.com/CobiontID/unique-kmer-counts) | Count distinct k-mers in sequences | Calculate k-mer diversity |
-| [fastk-medians](https://github.com/CobiontID/fastk-medians) | Calculate median number of times each large k-mer in a sequence occurs across the set | Approximate k-mer coverage |
+| [fastk-medians](https://github.com/CobiontID/fastk-medians) | Calculate median number of k-mer occurrences across the whole set for each sequence | Approximate k-mer coverage |
 
 Further details are provided under [https://cobiontid.github.io/](https://cobiontid.github.io/)
 
