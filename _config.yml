@@ -17,3 +17,10 @@ defaults:
 
 plugins:
       - jekyll-include-cache
+
+author:
+  name             : "Claudia C. Weber"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : #"I am an **amazing** person."
+  location         : "Cambridge, England"
+  email            : claudia (dot) c (dot) weber (at) gmail (dot) com
