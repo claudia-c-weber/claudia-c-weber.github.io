@@ -1,6 +1,8 @@
 #- name: Home
 #  link: /
 main:
+- title: About
+  url: index.html
 - title: Publications
   url: Publications.html
 - title: Software
