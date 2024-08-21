@@ -14,6 +14,7 @@ defaults:
       #menubar: docs_menu
       #hero_height: small
       layout: single
+      author_profile: true
 
 plugins:
       - jekyll-include-cache
