@@ -1,6 +1,8 @@
 ---
 title: Software
 toc: true
+header:
+  overlay_color: "#333"
 ---
 
 
