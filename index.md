@@ -1,7 +1,6 @@
 ---
-title: About
-layout: page
-show_sidebar: false
+permalink: /about/
+title: "About"
 ---
 
 # About
