@@ -13,3 +13,6 @@ defaults:
       show_sidebar: false
       menubar: docs_menu
       hero_height: small
+
+plugins:
+      - jekyll-include-cache
