@@ -21,7 +21,7 @@ I contributed to benchmarking [ProtASR 1.0](https://github.com/MiguelArenas/prot
 
 
 # Unsupervised learning for genome assembly
-## Identifying sample contamination in long-read sequencing data 
+## Identifying sample contamination in long-read sequencing data with VAEs
 Samples collected for sequencing often contain genetic material from non-target organisms, and gaps in reference databases often make identifying the source of a sequence challenging. However, two-dimensional representations of composition learned by a Variational Autoencoder can help separate sequences from different sources, even when taxonomic labels are unavailable.
 
 The example below shows HiFi reads from a buff-tip moth sample, which was infected _Wolbachia_ strains:
