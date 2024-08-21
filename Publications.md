@@ -1,6 +1,6 @@
 ---
 title: Publications
-
+classes: wide
 ---
 
 
