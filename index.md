@@ -1,9 +1,7 @@
 ---
-permalink: /about/
 title: "About"
 ---
 
-# About
 
 I am a postdoctoral bioinformatics researcher in the Tree of Life programme at the Wellcome Sanger Institute, and a visiting postdoctoral fellow at EMBL-EBI.
 
