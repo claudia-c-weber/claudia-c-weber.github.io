@@ -5,8 +5,7 @@ header:
   overlay_color: "#333"
 ---
 
-
-# Molecular evolution
+# Phylogenetic methods
 ## Modelling contraints on physicochemical amino acid properties
 
 Most codon substitution models treat all nonsynonymous changes as equivalent, regardless of the physicochemical properties of the amino acids involved. "CoRa" is a parametric codon model that allows constraints on radical or conservative amino acid substitutions to be considered separately. The model describes the evolution of protein coding sequences in organisms with large populations and effective selection significantly better than the standard model.
@@ -20,8 +19,13 @@ Most codon substitution models treat all nonsynonymous changes as equivalent, re
 
 </details>
 
+## Ancestral protein sequence reconstruction
+
+I contributed to benchmarking [ProtASR 1.0](https://github.com/MiguelArenas/protasr) [(Arenas et al, 2017)](https://academic.oup.com/sysbio/article/66/6/1054/2840014), which addresses a common issue with methods based on empirical substitution models that tend to reconstruct proteins that are more stable than those found in nature. 
+
+
 # Unsupervised learning for genome assembly
-## Variational Autoencoders for extracting contaminant reads
+## Identifying sample contamination in long-read sequencing data 
 Samples collected for sequencing often contain genetic material from non-target organisms, and gaps in reference databases often make identifying the source of a sequence challenging. However, two-dimensional representations of composition learned by a Variational Autoencoder can help separate sequences from different sources, even when taxonomic labels are unavailable.
 
 <details>
@@ -50,7 +54,7 @@ Further details are provided under https://cobiontid.github.io/
 
 </details>
 
-## Chromatin interaction networks
+## Extracting genomes from mixed samples with chromatin network embeddings
 Examining chromatin interactions can be helpful for separating distinct genomes in contaminated assemblies. Though this is often done manually, automated clustering of highly interconnected scaffolds based on graph embeddings provides a convenient approach.
 
 <details>
