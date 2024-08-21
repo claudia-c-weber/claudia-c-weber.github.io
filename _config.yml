@@ -20,7 +20,7 @@ plugins:
       - jekyll-include-cache
 
 author:
-  name             : "Claudia C. Weber"
+  name             : #"Claudia C. Weber"
   avatar           : "https://lh6.googleusercontent.com/qb1qFqcNz73JRg-9j25BYRIY0bFt1Ma-PbSVJqxl8tO38JDDdB5Ko1XBXNpcsFHF1Gq0RXP_4vgGAVAF7Z_oPhVI41oRkmAwRDFwtectckVEg5375pmUEKoH8P-yYmjQGA=w1280"
   bio              : "email: first.initial.last [at] gmail.com"
   location         : "Cambridge, England"
