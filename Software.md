@@ -1,13 +1,10 @@
 ---
 title: Software
-layout: page
-show_sidebar: false
 ---
 
-# Software
 
-## Molecular evolution
-### Modelling contraints on physicochemical amino acid properties
+# Molecular evolution
+## Modelling contraints on physicochemical amino acid properties
 
 Most codon substitution models treat all nonsynonymous changes as equivalent, regardless of the physicochemical properties of the amino acids involved. "CoRa" is a parametric codon model that allows constraints on radical or conservative amino acid substitutions to be considered separately. The model describes the evolution of protein coding sequences in organisms with large populations and effective selection significantly better than the standard model.
 
@@ -20,8 +17,8 @@ Most codon substitution models treat all nonsynonymous changes as equivalent, re
 
 </details>
 
-## Unsupervised learning for genome assembly
-### Variational Autoencoders for extracting contaminant reads
+# Unsupervised learning for genome assembly
+## Variational Autoencoders for extracting contaminant reads
 Samples collected for sequencing often contain genetic material from non-target organisms, and gaps in reference databases often make identifying the source of a sequence challenging. However, two-dimensional representations of composition learned by a Variational Autoencoder can help separate sequences from different sources, even when taxonomic labels are unavailable.
 
 <details>
@@ -35,7 +32,7 @@ The example below shows HiFi reads from a buff-tip moth sample, which was infect
 
 </details>
 
-### K-mer statistics
+## K-mer statistics
 Along with the VAE workflow, I provide a set of standalone k-mer counting tools suitable for high-quality long read data:
 <details>
 <summary>Show overview of tools...</summary>
@@ -50,7 +47,7 @@ Further details are provided under https://cobiontid.github.io/
 
 </details>
 
-### Chromatin interaction networks
+## Chromatin interaction networks
 Examining chromatin interactions can be helpful for separating distinct genomes in contaminated assemblies. Though this is often done manually, automated clustering of highly interconnected scaffolds based on graph embeddings provides a convenient approach.
 
 <details>
