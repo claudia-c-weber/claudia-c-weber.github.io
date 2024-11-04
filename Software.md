@@ -49,5 +49,5 @@ Further details are provided under [https://cobiontid.github.io/](https://cobion
 Examining chromatin interactions can be helpful for separating distinct genomes in contaminated assemblies. Though this is often done manually, automated clustering of highly interconnected scaffolds based on graph embeddings provides a convenient approach.
 
 - Code for learning network embeddings and visualizing Hi-C maps: https://github.com/CobiontID/HiC_network
-- Preprint coming soon...
+- Preprint: _Kudoa genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution_ [https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1](https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1)
 
