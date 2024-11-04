@@ -3,8 +3,8 @@
 main:
 - title: About
   url: index.html
-- title: Research Interests
-   url: Research.html
+#- title: Research Interests
+#   url: Research.html
 - title: Publications
   url: Publications.html
 - title: Software
