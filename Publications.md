@@ -5,13 +5,11 @@ header:
   overlay_color: "#333"
 ---
 
-# Preprint
-
-**Weber CC**, Paulini M, (...), Blaxter ML. 2024. _Kudoa_ genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution ([link](https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1))
-
 # Peer-reviewed papers
 
-**Weber CC**. 2014. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics ([link](https://doi.org/10.1093/g3journal/jkae187))
+**Weber CC**, Paulini M, (...), Blaxter ML. 2025. Myxozoan parasite genomes assembled from contaminated host data reveal extensive gene order conservation and rapid sequence evolution. G3: Genes, Genomes, Genetics (in press, [preprint link](https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1))
+
+**Weber CC**. 2024. Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition. G3: Genes, Genomes, Genetics ([link](https://doi.org/10.1093/g3journal/jkae187))
 
 **Weber CC**, Perron U, Casey D, Yang Z, Goldman N. 2021. Ambiguity coding allows accurate inference of evolutionary parameters from alignments in an aggregated state-space. Systematic Biology  ([link](https://academic.oup.com/sysbio/article/70/1/21/5827469))
 
